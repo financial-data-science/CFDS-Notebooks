@@ -2,7 +2,7 @@
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-![Course Banner](https://github.com/financial-data-science/CFDS-Notebooks/blob/master/banner.png)
+![Course Banner](https://github.com/financial-data-science/CFDS-Notebooks/blob/main/banner.png)
 
 A series of interactive lab notebooks we prepared for the DFVA and AZEK **Chartered Financial Data Scientist (CFDS) &reg;** Certification. The content of the series is based on Python, IPython Notebook, and PyTorch.
 
