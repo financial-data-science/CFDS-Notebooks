@@ -20,8 +20,6 @@ This is currently work in progress so please expect minor errors and some rough 
 
 (more lab notebooks to be published ...)
 
--->
-
 ## Getting Started
 
 Install dependencies via `pip install -r requirements.txt`.
