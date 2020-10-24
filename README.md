@@ -30,6 +30,12 @@ This is currently work in progress so please expect minor errors and some rough 
 
 **Lab 07:** "Supervised Machine Learning - Support Vector Machines" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_07%2Fcfds_lab_07.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_07/cfds_colab_07.ipynb))
 
+## Second Seminar Day - Lab Notebooks
+
+**Lab 09:** "Unsupervised Machine Learning - k-Means Clustering" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_09%2Fcfds_lab_09.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_09/cfds_colab_09.ipynb))
+
+**Lab 10:** "Unsupervised Machine Learning - Expectation Maximization Clustering" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_10%2Fcfds_lab_10.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_10/cfds_colab_10.ipynb))
+
 -->
 
 (more lab notebooks to be published ...)
