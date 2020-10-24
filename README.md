@@ -1,4 +1,4 @@
-## Chartered Financial Data Scientist (CFDS) &reg;
+## AZEK & DVFA Chartered Financial Data Scientist (CFDS) &reg;
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
