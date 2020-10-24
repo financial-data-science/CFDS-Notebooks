@@ -18,9 +18,11 @@ This is currently work in progress so please expect minor errors and some rough 
 
 <!--
 
-Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/financial-data-science/CFDS)
+## First Seminar Day - Lab Notebooks
 
-**Lab 02:** "Fundementals of Python Programming" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS/master?filepath=lab_02%2Fcfds_lab_02.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS/blob/master/lab_02/cfds_colab_02.ipynb))
+**Lab 05:** "Supervised Machine Learning - Naive Bayes" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_05%2Fcfds_lab_05.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_05/cfds_colab_05.ipynb))
+
+**Lab 06:** "Supervised Machine Learning - k Nearest-Neighbor" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_06%2Fcfds_lab_06.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_06/cfds_colab_06.ipynb))
 
 -->
 
