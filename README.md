@@ -36,6 +36,8 @@ This is currently work in progress so please expect minor errors and some rough 
 
 **Lab 10:** "Unsupervised Machine Learning - Expectation Maximization Clustering" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_10%2Fcfds_lab_10.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_10/cfds_colab_10.ipynb))
 
+**Lab 10:** "Supervised Deep Learning - Artificial Neural Networks" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_11%2Fcfds_lab_11.ipynb), CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_11/cfds_colab_11.ipynb), GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_11/cfds_colab_11_gpu.ipynb))
+
 -->
 
 (more lab notebooks to be published ...)
