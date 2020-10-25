@@ -38,6 +38,8 @@ This is currently work in progress so please expect minor errors and some rough 
 
 **Lab 10:** "Supervised Deep Learning - Artificial Neural Networks" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_11%2Fcfds_lab_11.ipynb), CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_11/cfds_colab_11.ipynb), GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_11/cfds_colab_11_gpu.ipynb))
 
+**Lab 10:** "Supervised Deep Learning - Convolutional Neural Network" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_12%2Fcfds_lab_12.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_12/cfds_colab_12_gpu.ipynb))
+
 -->
 
 (more lab notebooks to be published ...)
