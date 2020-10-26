@@ -16,8 +16,6 @@ This is currently work in progress so please expect minor errors and some rough 
 
 **Lab 02:** "Fundamentals of Python Programming" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_02%2Fcfds_lab_02.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_02/cfds_colab_02.ipynb))
 
-<!--
-
 ## First Seminar Day - Lab Notebooks
 
 **Lab 03:** "Financial Data Science - Moving Average Trading Strategies" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_03%2Fcfds_lab_03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_03/cfds_colab_03.ipynb))
@@ -29,6 +27,8 @@ This is currently work in progress so please expect minor errors and some rough 
 **Lab 06:** "Supervised Machine Learning - k Nearest-Neighbors" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_06%2Fcfds_lab_06.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_06/cfds_colab_06.ipynb))
 
 **Lab 07:** "Supervised Machine Learning - Support Vector Machines" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_07%2Fcfds_lab_07.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_07/cfds_colab_07.ipynb))
+
+<!--
 
 ## Second Seminar Day - Lab Notebooks
 
