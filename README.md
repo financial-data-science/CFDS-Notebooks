@@ -28,8 +28,6 @@ This is currently work in progress so please expect minor errors and some rough 
 
 **Lab 07:** "Supervised Machine Learning - Support Vector Machines" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_07%2Fcfds_lab_07.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_07/cfds_colab_07.ipynb))
 
-<!--
-
 ## Second Seminar Day - Lab Notebooks
 
 **Lab 09:** "Unsupervised Machine Learning - k-Means Clustering" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_09%2Fcfds_lab_09.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_09/cfds_colab_09.ipynb))
@@ -39,6 +37,8 @@ This is currently work in progress so please expect minor errors and some rough 
 **Lab 11:** "Supervised Deep Learning - Artificial Neural Networks" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_11%2Fcfds_lab_11.ipynb), CPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_11/cfds_colab_11.ipynb), GPU: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_11/cfds_colab_11_gpu.ipynb))
 
 **Lab 12:** "Supervised Deep Learning - Convolutional Neural Network" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_12%2Fcfds_lab_12.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_12/cfds_colab_12.ipynb))
+
+<!--
 
 -->
 
