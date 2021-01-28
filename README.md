@@ -40,7 +40,7 @@ This is currently work in progress so please expect minor errors and some rough 
 
 **Lab 13:** "Unsupervised Deep Learning - Autoencoder Neural Networks" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_13%2Fcfds_lab_13.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_13/cfds_colab_13.ipynb))
 
-**Lab 13:** "Supervised Deep Learning - Recurrent Neural Networks" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_14%2Fcfds_lab_14.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_14/cfds_colab_14.ipynb))
+**Lab 14:** "Supervised Deep Learning - Recurrent Neural Networks" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/CFDS-Notebooks/master?filepath=lab_14%2Fcfds_lab_14.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/financial-data-science/CFDS-Notebooks/blob/master/lab_14/cfds_colab_14.ipynb))
 
 <!--
 
